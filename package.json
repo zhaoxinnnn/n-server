@@ -1,0 +1,15 @@
+{
+  "name": "n-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhaoxin",
+  "license": "ISC",
+  "dependencies": {
+    "koa-router": "^7.4.0",
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
